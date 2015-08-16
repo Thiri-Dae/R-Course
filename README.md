@@ -1,12 +1,12 @@
 #R-Course
 Repo for the Coursera Data Scientist Course
 
-Contains first 4 courses of the Data Specialization Track thusfar
+Contains first 4 courses of the Data Specialization Track thusfar:
 
-*The Data Scientist's Toolbox
+1. The Data Scientist's Toolbox
 
-*R Programming
+2. R Programming
 
-*Getting and cleaning Data
+3. Getting and cleaning Data
 
-*Exploratory Data Analysis
+4. Exploratory Data Analysis
