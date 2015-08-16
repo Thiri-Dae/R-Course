@@ -1,5 +1,5 @@
 #R-Course
-Repo for the Coursera Data Scientist Course
+Repo for the Coursera Data Scientist Course (start date March 2015)
 
 Contains first **4** courses of the Data Specialization Track thusfar:
 
